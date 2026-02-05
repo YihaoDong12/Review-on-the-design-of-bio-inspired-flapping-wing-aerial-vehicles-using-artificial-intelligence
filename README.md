@@ -6,16 +6,16 @@ Data and MATLAB scripts for FWAV AI review figures
 ## Figure overview
 
 - **Figure 1b – Long-term evolution of flapping-wing research output and the proportion of AI-driven studies**  
-  ![fig.1a](figures/fig1a_PaperSummarize.png)
+  ![fig.1a](figure/fig1b_PaperSummarize.png)
 
 - **Figure 2 – Scale distribution of FWAVs**  
-  ![Fig. 2](figures/fig2.png)
+  ![Fig. 2](figure/fig2.png)
 
 - **Figure 3 – AI-enabled design pipeline**  
-  ![Fig. 3](figures/fig3.png)
+  ![Fig. 3](figure/fig3.png)
 
 - **Figure 4 – AI design framework**  
-  ![Fig. 4](figures/fig4.png)
+  ![Fig. 4](figure/fig4.png)
 
 ## How to reproduce the figures in MATLAB
 
